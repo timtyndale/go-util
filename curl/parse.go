@@ -16,7 +16,7 @@ import (
 	"net/url"
 	"strings"
 
-	"timtyndale/go-util/shlex"
+	"github.com/timtyndale/go-util/shlex"
 )
 
 type Parsed struct {

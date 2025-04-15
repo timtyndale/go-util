@@ -7,7 +7,7 @@ package base58_test
 import (
 	"testing"
 
-	"timtyndale/go-util/base58"
+	"github.com/timtyndale/go-util/base58"
 )
 
 var checkEncodingStringTests = []struct {

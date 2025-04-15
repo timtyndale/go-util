@@ -18,8 +18,8 @@ import (
 	"github.com/petermattis/goid"
 	"github.com/rs/zerolog"
 
-	"timtyndale/go-util/exerrors"
-	"timtyndale/go-util/random"
+	"github.com/timtyndale/go-util/exerrors"
+	"github.com/timtyndale/go-util/random"
 )
 
 var (

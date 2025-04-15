@@ -12,8 +12,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"timtyndale/go-util/exbytes"
-	"timtyndale/go-util/exerrors"
+	"github.com/timtyndale/go-util/exbytes"
+	"github.com/timtyndale/go-util/exerrors"
 )
 
 func ExampleWriter() {

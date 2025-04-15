@@ -5,7 +5,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"timtyndale/go-util/emojirunes"
+	"github.com/timtyndale/go-util/emojirunes"
 )
 
 func TestIsOnlyEmojis(t *testing.T) {

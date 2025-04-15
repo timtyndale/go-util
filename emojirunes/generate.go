@@ -16,8 +16,8 @@ import (
 
 	"golang.org/x/exp/slices"
 
-	"timtyndale/go-util/exerrors"
-	"timtyndale/go-util/unicodeurls"
+	"github.com/timtyndale/go-util/exerrors"
+	"github.com/timtyndale/go-util/unicodeurls"
 )
 
 func main() {

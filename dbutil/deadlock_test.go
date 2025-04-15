@@ -15,8 +15,8 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"timtyndale/go-util/dbutil"
-	_ "timtyndale/go-util/dbutil/litestream"
+	"github.com/timtyndale/go-util/dbutil"
+	_ "github.com/timtyndale/go-util/dbutil/litestream"
 )
 
 func initTestDB(t *testing.T) *dbutil.Database {

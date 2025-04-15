@@ -7,7 +7,7 @@ package base58_test
 import (
 	"fmt"
 
-	"timtyndale/go-util/base58"
+	"github.com/timtyndale/go-util/base58"
 )
 
 // This example demonstrates how to decode modified base58 encoded data.

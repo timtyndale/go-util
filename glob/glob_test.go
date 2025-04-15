@@ -5,7 +5,7 @@ import (
 	"testing"
 	"unicode/utf8"
 
-	"timtyndale/go-util/glob"
+	"github.com/timtyndale/go-util/glob"
 )
 
 type mparams struct {

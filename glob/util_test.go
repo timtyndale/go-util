@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"timtyndale/go-util/glob"
+	"github.com/timtyndale/go-util/glob"
 )
 
 var simplifyTests = []struct {

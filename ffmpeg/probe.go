@@ -15,7 +15,7 @@ import (
 
 	"github.com/rs/zerolog"
 
-	"timtyndale/go-util/exzerolog"
+	"github.com/timtyndale/go-util/exzerolog"
 )
 
 type Format struct {

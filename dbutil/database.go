@@ -15,7 +15,7 @@ import (
 	"strings"
 	"time"
 
-	"timtyndale/go-util/exsync"
+	"github.com/timtyndale/go-util/exsync"
 )
 
 type Dialect int

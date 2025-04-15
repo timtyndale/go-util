@@ -11,7 +11,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"timtyndale/go-util/confusable"
+	"github.com/timtyndale/go-util/confusable"
 )
 
 func TestSkeleton(t *testing.T) {

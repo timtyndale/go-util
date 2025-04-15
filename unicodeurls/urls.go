@@ -16,7 +16,7 @@ import (
 	"strconv"
 	"strings"
 
-	"timtyndale/go-util/exerrors"
+	"github.com/timtyndale/go-util/exerrors"
 )
 
 const UnicodeVersion = "16.0"
