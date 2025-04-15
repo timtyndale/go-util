@@ -8,7 +8,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"go.mau.fi/util/progress"
+	"timtyndale/go-util/progress"
 )
 
 func TestWriter(t *testing.T) {

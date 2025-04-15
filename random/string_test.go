@@ -13,7 +13,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"go.mau.fi/util/random"
+	"timtyndale/go-util/random"
 )
 
 func TestString_Length(t *testing.T) {

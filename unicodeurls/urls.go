@@ -16,7 +16,7 @@ import (
 	"strconv"
 	"strings"
 
-	"go.mau.fi/util/exerrors"
+	"timtyndale/go-util/exerrors"
 )
 
 const UnicodeVersion = "16.0"

@@ -12,7 +12,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"go.mau.fi/util/exfmt"
+	"timtyndale/go-util/exfmt"
 )
 
 func TestFormatDuration(t *testing.T) {

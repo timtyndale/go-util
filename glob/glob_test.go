@@ -5,7 +5,7 @@ import (
 	"testing"
 	"unicode/utf8"
 
-	"go.mau.fi/util/glob"
+	"timtyndale/go-util/glob"
 )
 
 type mparams struct {

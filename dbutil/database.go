@@ -15,7 +15,7 @@ import (
 	"strings"
 	"time"
 
-	"go.mau.fi/util/exsync"
+	"timtyndale/go-util/exsync"
 )
 
 type Dialect int

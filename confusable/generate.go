@@ -15,8 +15,8 @@ import (
 	"slices"
 	"strings"
 
-	"go.mau.fi/util/exerrors"
-	"go.mau.fi/util/unicodeurls"
+	"timtyndale/go-util/exerrors"
+	"timtyndale/go-util/unicodeurls"
 )
 
 type Confusable struct {

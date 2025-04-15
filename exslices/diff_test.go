@@ -12,7 +12,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"go.mau.fi/util/exslices"
+	"timtyndale/go-util/exslices"
 )
 
 func generateInts(seed int64, size, maxVal int, sorted bool) ([]int, []int) {

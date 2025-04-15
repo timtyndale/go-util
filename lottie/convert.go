@@ -17,8 +17,8 @@ import (
 
 	"github.com/rs/zerolog"
 
-	"go.mau.fi/util/exzerolog"
-	"go.mau.fi/util/ffmpeg"
+	"timtyndale/go-util/exzerolog"
+	"timtyndale/go-util/ffmpeg"
 )
 
 var lottieconverterPath string
