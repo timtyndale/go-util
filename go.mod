@@ -1,4 +1,4 @@
-module go.mau.fi/util
+module github.com/timtyndale/go-util
 
 go 1.23.0
 
